@@ -29,4 +29,8 @@ TensorFlow
 yfinance
 pandas
 numpy
+-
+Team Members
+Naif
+ni0ss
 matplotlib
